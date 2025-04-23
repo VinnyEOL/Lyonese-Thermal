@@ -12,7 +12,6 @@ debug.performance.tuning=1
 hw3d.force=1
 persist.sys.ui.hw=1
 ro.config.enable.hw_accel=true
-ro.product.gpu.driver=1
 ro.fb.mode=1
 video.accelerate.hw=1
 
